@@ -20,4 +20,4 @@ home: https://bioinformaticsdotca.github.io/ML_2020
 |	16:30	|	<font color="green">Break</font>|	16:30	|	<font color="green">Break</font>	|
 |	17:00	|	<font color="purple">Module 4 Lab: Neural Networks for secondary structure (David Wishart)</font>|	17:00	|	<font color="purple">Module 8 Lab: Machine Learning with Keras & Scikit-Learn (David Wishart)</font>|
 |	18:30	|	font color="green">Break</font>	|	18:30	|	<font color="purple">Module 8 Lab: Continued</font>|
-| 19:00 |	<font color="purple">M(Optional) Mod. 4 Lab: Continued</font>| 19:00 |	Survey & Closing Remarks |  
+| 19:00 |	<font color="purple">(Optional) Mod. 4 Lab: Continued</font>| 19:00 |	Survey & Closing Remarks |  
