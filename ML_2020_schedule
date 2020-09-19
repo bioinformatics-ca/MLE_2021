@@ -8,9 +8,9 @@ image: /site_images/CBW_bigdata_icon.jpg
 home: https://bioinformaticsdotca.github.io/ML_2020
 ---
 
-| | **Day 1**| **Day 2** |   
-| :---: | :---:| :---: |    
-| | **Monday, September 21** | **Tuesday, September 22** |  
+| | **Day 1** | | **Day 2** |  
+| :---: | :---: | :---: | :---: |    
+| | **Monday, September 21** || **Tuesday, September 22** |  
 |	10:00	|	Welcome (Rachade)	|	10:00	|	Module 4: Recap	|
 |	10:45	|	<font color="purple">Module 1: Introduction to Machine Learning (David Wishart)</font>|	10:15	|	<font color="purple">Module 5 Lecture: Hidden Markov Models (David Wishart)</font>|
 |	12:30	|	<font color="green">Break</font>|	11:30	|	<font color="green">Break</font>	|
