@@ -4,17 +4,11 @@ permalink: /ml_2020
 title: Machine Learning
 header1: Workshop Pages for Students
 header2: Machine Learning 2020
-yearName: Machine Learning 2020
 image: /site_images/CBW_bigdata_icon.jpg
 keywords: Machine Learning
 description: Machine Learning
 instructors: David Wishart
 length: 2 days
-status: Completed
-audience: Graduates, postgraduates, Principle Investigators, Researchers
-location: Online
-startDate: 2020-09-21
-endDate: 2020-09-22
 ---
 
 # Welcome <a id="welcome"></a> 
