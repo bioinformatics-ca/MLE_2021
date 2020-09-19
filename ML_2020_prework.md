@@ -3,7 +3,7 @@ layout: tutorial_page
 permalink: /ML_2020_prework
 title: Machine learning Pre-work
 header1: Workshop Pages for Students
-header2: Machine Learning 2020
+header2: Prework Machine Learning 2020
 image: /site_images/CBW_bigdata_icon.jpg
 home: https://bioinformaticsdotca.github.io/ml_2020
 ---
