@@ -1,7 +1,7 @@
 ---
 layout: workshop_main_2day
 permalink: /ml_2020
-title: MachineL
+title: Machine Learning
 header1: Workshop Pages for Students
 header2: Machine Learning 2020
 yearName: Machine Learning 2020
