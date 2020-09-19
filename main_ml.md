@@ -35,67 +35,43 @@ Comming soon
 
 *<font color="#827e9c">Rachade Hmamouchi</font>*
 
-## Module 1
+## Modules 
 
 *<font color="#827e9c">David Wishart</font>*  
 
- [Lecture](https://drive.google.com/file/d/1r2dMR2qdo4sanHcNZOGtxqoZBQe4EcYo/view?usp=sharing)
+[Module 1: Introduction to Machine Learning](https://drive.google.com/file/d/1r2dMR2qdo4sanHcNZOGtxqoZBQe4EcYo/view?usp=sharing)
  
-## Module 2
-
-*<font color="#827e9c">David Wishart</font>*  
-
- [Lecture]()
  
-## Module 3
-
-*<font color="#827e9c">David Wishart</font>*  
-
-[Lecture](https://drive.google.com/file/d/1u4R8LIeVVwbkJFrFStbnf2MEtqrXpT4o/view?usp=sharing)
+[Module 2 Lecture & Lab: Decision Trees]()
  
-[data1.csv](https://drive.google.com/file/d/1cZwC8YMCTfEmTCVHZBuHn-BSVpYmmx6w/view?usp=sharing)
+
+[Module 3 Lecture: Neural Networks](https://drive.google.com/file/d/1u4R8LIeVVwbkJFrFStbnf2MEtqrXpT4o/view?usp=sharing)
  
-## Module 4
 
-*<font color="#827e9c">David Wishart</font>*  
-
- [Lecture](https://drive.google.com/file/d/1pAJg-AWv-ZhLn9J0G3aYxbKb0zvydJVJ/view?usp=sharing)
+[Module 4 Lab: Neural Networks for secondary structure](https://drive.google.com/file/d/1pAJg-AWv-ZhLn9J0G3aYxbKb0zvydJVJ/view?usp=sharing)
  
- [converted_data.csv](https://drive.google.com/file/d/1Ele6JgXhlZnYs_hCQuxTFHksf6sAhxSL/view?usp=sharing)
-
+## Exercices
+[CBW_MachineLearning_2020_labs](https://drive.google.com/file/d/1kll7JePjVAG5jL835EmQa_xQ72w2soGA/view?usp=sharing)
 
 ***
 
 # Day 2 <a id="day2"></a>
 
-## Module 5
-
 *<font color="#827e9c">David Wishart</font>*  
 
- [Lecture]()
- 
-## Module 6
+[Module 5 Lecture: Hidden Markov Models]()
 
-*<font color="#827e9c">David Wishart</font>*  
 
- [Lecture]()
+[Module 6 Lab: Gene Finding with NNs and HMMs]()
  
- [Lab]() 
- 
-## Module 7
 
-*<font color="#827e9c">David Wishart</font>*  
-
- [Lecture]()
+[Module 7 Lecture: Machine Learning with Keras & Scikit-Learn]()
  
- 
- ## Module 8
 
-*<font color="#827e9c">David Wishart</font>*  
+[Module 8 Lab: Machine Learning with Keras & Scikit-Learn]()
 
- [Lecture]()
- 
- [Lab]() 
+## Excercises 
+[CBW_MachineLearning_2020_labs](https://drive.google.com/file/d/1kll7JePjVAG5jL835EmQa_xQ72w2soGA/view?usp=sharing)
 
 ***
 # Survey
