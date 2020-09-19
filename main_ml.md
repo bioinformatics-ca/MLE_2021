@@ -50,12 +50,14 @@ Comming soon
 
 [Module 4 Lab: Neural Networks for secondary structure](https://drive.google.com/file/d/1pAJg-AWv-ZhLn9J0G3aYxbKb0zvydJVJ/view?usp=sharing)
  
-## Exercices
+## Labs
 [CBW_MachineLearning_2020_labs](https://drive.google.com/file/d/1kll7JePjVAG5jL835EmQa_xQ72w2soGA/view?usp=sharing)
 
 ***
 
 # Day 2 <a id="day2"></a>
+
+## Modules 
 
 *<font color="#827e9c">David Wishart</font>*  
 
@@ -70,7 +72,7 @@ Comming soon
 
 [Module 8 Lab: Machine Learning with Keras & Scikit-Learn]()
 
-## Excercises 
+## Labss 
 [CBW_MachineLearning_2020_labs](https://drive.google.com/file/d/1kll7JePjVAG5jL835EmQa_xQ72w2soGA/view?usp=sharing)
 
 ***
