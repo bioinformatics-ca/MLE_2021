@@ -19,13 +19,13 @@ endDate: 2020-09-22
 
 # Welcome <a id="welcome"></a> 
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/ML_2020_schedule)
+The course schedule can be found [here](https://bioinformaticsdotca.github.io//ML_2020_schedule)
 
 Meet your faculty (Comming soon) 
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-Pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/ML_2020_prework).  
+Pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io//ML_2020_prework).  
 
 ***
 
