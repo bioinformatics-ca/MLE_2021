@@ -45,7 +45,7 @@ Comming soon
 
 *<font color="#827e9c">David Wishart</font>*  
 
- [Lecture]()
+ [Lecture](https://drive.google.com/file/d/1r2dMR2qdo4sanHcNZOGtxqoZBQe4EcYo/view?usp=sharing)
  
 ## Module 2
 
@@ -57,15 +57,17 @@ Comming soon
 
 *<font color="#827e9c">David Wishart</font>*  
 
- [Lecture]()
+[Lecture](https://drive.google.com/file/d/1u4R8LIeVVwbkJFrFStbnf2MEtqrXpT4o/view?usp=sharing)
+ 
+[data1.csv](https://drive.google.com/file/d/1cZwC8YMCTfEmTCVHZBuHn-BSVpYmmx6w/view?usp=sharing)
  
 ## Module 4
 
 *<font color="#827e9c">David Wishart</font>*  
 
- [Lecture]()
+ [Lecture](https://drive.google.com/file/d/1pAJg-AWv-ZhLn9J0G3aYxbKb0zvydJVJ/view?usp=sharing)
  
- [Lab]()
+ [converted_data.csv](https://drive.google.com/file/d/1Ele6JgXhlZnYs_hCQuxTFHksf6sAhxSL/view?usp=sharing)
 
 
 ***
