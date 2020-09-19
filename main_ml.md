@@ -1,6 +1,6 @@
 ---
 layout: workshop_main_2day
-permalink: /ml_2020
+permalink: ml_2020
 title: Machine Learning
 header1: Workshop Pages for Students
 header2: Machine Learning 2020
