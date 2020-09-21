@@ -5,7 +5,7 @@ title: ML
 header1: Workshop Pages for Students
 header2: Machine Learning 2020 Schedule
 image: /site_images/CBW_bigdata_icon.jpg
-home: https://bioinformaticsdotca.github.io/ml_2020
+home: https://bioinformaticsdotca.github.io/ML_2020
 ---
 
 | | **Day 1** | | **Day 2** |  
