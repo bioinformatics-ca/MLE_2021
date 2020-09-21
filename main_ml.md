@@ -72,7 +72,7 @@ Comming soon
 
 [Module 8 Lab: Machine Learning with Keras & Scikit-Learn](https://drive.google.com/file/d/1Mk-Ayl7Z8ve3jpzU-y3JRyAzOwN9Vrdc/view?usp=sharing)
 
-## Labss 
+## Labs 
 [CBW_MachineLearning_2020_labs](https://drive.google.com/file/d/1kll7JePjVAG5jL835EmQa_xQ72w2soGA/view?usp=sharing)
 
 ***
