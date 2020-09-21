@@ -48,7 +48,7 @@ Comming soon
 [Module 3 Lecture: Neural Networks](https://drive.google.com/file/d/1u4R8LIeVVwbkJFrFStbnf2MEtqrXpT4o/view?usp=sharing)
  
 
-[Module 4 Lab: Neural Networks for secondary structure](https://drive.google.com/file/d/1pAJg-AWv-ZhLn9J0G3aYxbKb0zvydJVJ/view?usp=sharing)
+[Module 4 Lab: Neural Networks for secondary structure](https://drive.google.com/file/d/19gikdELY9E4aeEwhDi90uXkPP2Nc7Jd7/view?usp=sharing)
  
 ## Labs
 [CBW_MachineLearning_2020_labs](https://drive.google.com/file/d/1kll7JePjVAG5jL835EmQa_xQ72w2soGA/view?usp=sharing)
@@ -61,16 +61,16 @@ Comming soon
 
 *<font color="#827e9c">David Wishart</font>*  
 
-[Module 5 Lecture: Hidden Markov Models]()
+[Module 5 Lecture: Hidden Markov Models](https://drive.google.com/file/d/12tF9Ok3YC9syMNFCXQselUfWr6VCYt9F/view?usp=sharing)
 
 
-[Module 6 Lab: Gene Finding with NNs and HMMs]()
+[Module 6 Lab: Gene Finding with NNs and HMMs](https://drive.google.com/file/d/1mrWo5okL1L_xlT3YHNm5RfEPHdzzsFjV/view?usp=sharing)
  
 
-[Module 7 Lecture: Machine Learning with Keras & Scikit-Learn]()
+[Module 7 Lecture: Machine Learning with Keras & Scikit-Learn](https://drive.google.com/file/d/1iBpfsSXC7b-BmSXT8nwD3q-lu1b8OMgS/view?usp=sharing)
  
 
-[Module 8 Lab: Machine Learning with Keras & Scikit-Learn]()
+[Module 8 Lab: Machine Learning with Keras & Scikit-Learn](https://drive.google.com/file/d/1Mk-Ayl7Z8ve3jpzU-y3JRyAzOwN9Vrdc/view?usp=sharing)
 
 ## Labss 
 [CBW_MachineLearning_2020_labs](https://drive.google.com/file/d/1kll7JePjVAG5jL835EmQa_xQ72w2soGA/view?usp=sharing)
