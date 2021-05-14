@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /ML_2020_schedule
+permalink: /ML_2021_schedule
 title: ML
 header1: Workshop Pages for Students
-header2: Machine Learning 2020 Schedule
+header2: Machine Learning 2021 Schedule
 image: /site_images/CBW_bigdata_icon.jpg
-home: https://bioinformaticsdotca.github.io/ML_2020
+home: https://bioinformaticsdotca.github.io/ML_2021
 ---
 
 | | **Day 1** | | **Day 2** |  
