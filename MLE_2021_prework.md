@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /ML_2020_prework
+permalink: /MLE_2021_prework
 title: Machine learning Pre-work
 header1: Workshop Pages for Students
-header2: Prework Machine Learning 2020
+header2: Prework Machine Learning 2021
 image: /site_images/CBW_bigdata_icon.jpg
-home: https://bioinformaticsdotca.github.io/ML_2020
+home: https://bioinformaticsdotca.github.io/MLE_2021
 ---
 
 ## Python : 
