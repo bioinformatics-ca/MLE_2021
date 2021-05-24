@@ -1,7 +1,7 @@
 ---
 layout: tutorial_page
-permalink: /ML_2021_schedule
-title: ML
+permalink: /MLE_2021_schedule
+title: MLE
 header1: Workshop Pages for Students
 header2: Machine Learning 2021 Schedule
 image: /site_images/CBW_bigdata_icon.jpg
