@@ -11,7 +11,7 @@ home: https://bioinformaticsdotca.github.io/MLE_2021
 | | **Day 1** | | **Day 2** |  
 | :---: | :---: | :---: | :---: |    
 | | **Tuesday, May 25** | | **Wednesday, May 26** |  
-|	10:00	|	Welcome (Francis)	|	10:00	|	<font color="purple">Module 4: Recap</font>	|
+|	10:00	|	Welcome (Francis)	|	10:00	|	<font color="purple">Day 1 recap and technology check</font>	|
 |	10:45	|	<font color="purple">Module 1: Introduction to Machine Learning (Lecture)</font>|	10:15	|	<font color="purple">Module 5: Hidden Markov Models (Lecture and Lab)</font>|
 |	12:15	|	<font color="green">Break</font>|	11:30	|	<font color="green">Break</font>	|
 |	12:45|	<font color="purple">Module 2: Decision Trees (Lecture and Lab) </font>|	12:00	|	<font color="purple">Module 6: Gene Finding with NNs and HMMs (Lecture and Lab) </font>|
